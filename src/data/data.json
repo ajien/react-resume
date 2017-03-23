@@ -1,0 +1,270 @@
+{
+    "name" : "Aaron Jeffrey Nolasco",
+    "title" : "Full Stack Developer",
+    "profile" : "I am a full-stack web developer with more than 8 years of experience in structuring, building and implementing websites based on WordPress, Joomla and other content management platforms. I am capable of pixel-perfect conversion of design files into a fully-working, highly interactive websites in a minimum amount of time. I am smart, hardworking and resourceful, able to finish complex tasks with less or no supervision and in a timely manner. I love to tackle challenges and I do not easily give up. A consistent achiever, I know how to set goals, make priorities and follow up on plans.",
+    
+    "dialog" : "Are you looking for someone to help you with your development projects? Let's talk about it, I might just be the person who can help you. I understand and speak English pretty well, and I am sure we are going to have a really fun conversation.",
+    
+    "photo" : "assets/images/photo.png",
+    "email" : "ajie.nolasco@gmail.com",
+    "phone" : "+63 927 137 3979",
+    "skype" : "ajie.nolasco",
+    "linkedin" : "https://www.linkedin.com/in/aaron-jeffrey-nolasco",
+    "facebook" : "https://www.facebook.com/ajie.nolasco",
+    "services" : [
+        "Theme development for WordPress",
+        "WordPress to ReactJS",
+        "App development with ReactJS",
+        "Front-end development with AngularJS",
+        "UI Development",
+        "UX Prototyping and Research"
+    ],
+    
+    "experiences" : [
+            {
+                "company": "eWay Corp",
+                "location": "Clive, Iowa",
+                "title": "Senior Web Developer",
+                "time": "2013 - Present",
+                "description": "<p>As Senior Web Developer, my responsibility involves interaction with the top management, the clients and the rest of the Web Development and Quality Assurance teams.</p><p>I have the responsibility of creating preliminary proposals and estimates for web development projects, which also involves researching for and recommending the best possible solutions.</p><p>From time to time, I am also tasked to conduct trainings and presentations to clients, as well as participate in discussions and provide insights on how to improve functionality and design of ongoing as well as upcoming web application projects.</p><p>I also conduct trainings and lead stand up meetings, helping members of the team keep up to standards in development and coding practices. When not doing my leadership duties, I keep my own development skills sharp by working on mission critical projects for the company.</p>",
+                
+                "accomplishments": [
+                    "Pioneered the WordPress Development team",
+                    "Visited our India office to conduct training to other web developers",
+                    "Introduced the use of Google Tag Manager",
+                    "Introduced Angular JS and used it on some of the client projects",
+                    "Introduced the use of React JS for building single page applications"
+                ]
+            },
+            {
+                "company": "Hollicorp Mentoring, Inc.",
+                "location": "Cebu City, Philippines",
+                "title": "IT Manager",
+                "time": "2010 - 2012",
+                "description": "<p>Duties include building/set-up and upkeep of Asterisk-based predictive dialer server, data management, network maintenance, workstation maintenance and other IT related tasks. Other responsibilities included set-up/modification of Customer Relationship Management system (CRM) and integrating it with the dialer system, website creation for lead capture, as well as overall management and upkeep of all IT resources.</p>",
+                
+                "accomplishments": [
+                    "Built a cluster of Asterisk dialer, web and database servers using open source software, saving the company upwards of $12,000 on initial investment on equipment",
+                    "Used Ubuntu on all 80 agent workstations saving the company even more",
+                    "Implemented IT security policy and procedures"
+                ]
+            },
+            {
+                "company": "Syro Services",
+                "location": "New Jersey",
+                "title": "Web Designer / Developer",
+                "time": "2010 - 2011",
+                "description": "<p>My responsibilities included design and development of websites using Joomla and WordPress, as well as manage hosting accounts for clients using cPanel. I was also responsible for providing training and support to clients.</p>",
+                
+                "accomplishments": [
+                    "Working for Syro Services started my professional career in web development",
+                    "I learned how to build themes and customize plugins for WordPress"
+                ]
+            },
+            {
+                "company": "Ink2Go",
+                "location": "Cebu City, Philippines",
+                "title": "Business Proprietor",
+                "time": "2005 - 2012",
+                "description": "<p>I opened a small shop offering all sorts of services including printer cartridge refilling, computer and printer repairs, graphic design, video editing and a few others. The company became a hit that I was able to open 5 more shops in several cities in just a matter of 2 years. </p><p>As a start up business owner, I learned how to assess the market, size up the competition, and deliver the best products and services to my clients.I was able to put into practice the things that I learned from my training and employment at the Academy for Creating Enterprise.</p>",
+                
+                "accomplishments": [
+                    "Awarded as Franchisor of the Year (Non-Food Category) by Filipino Franchisors Association in 2007",
+                    "Awarded as Manager of the Year in 2007 by Called2Serve Philippines, Inc.",
+                    "Awarded the Master Entrepreneur of the Year by the Yamagata Foundation and Called2Serve Philippines, Inc. in 2008"
+                ]
+            },
+            {
+                "company": "Called2Serve Philippines, Inc.",
+                "location": "Cebu City, Philippines",
+                "title": "Business Coach ",
+                "time": "2003 - 2005",
+                "description": "<p>As Business Coach, I was responsible for conducting trainings and leading group activities for the students, as well as providing coaching in business planning and development for both the students and graduates who are planning to start, expand or franchise their businesses.</p><p>My responsibility also extended to documentation and analysis of the students' and graduates' business successes and challenges. Results of my research were used for both business development as well as for sourcing funds both for the graduates and for the institution.</p>",
+                
+                "accomplishments": [
+                    "Created a system for storage and retrieval of student information, business plans, and other relevant data",
+                    "Created a system for tracking and monitoring business and employment progress of the graduates",
+                    "Designed marketing materials used for recruitment of new students",
+                    "Designed marketing materials used for fund raising, including calendars featuring our student's success stories in business"
+                ]
+            }
+    ],
+    
+    "schools" : [
+            {
+                "degree": "Electronics and Communications Engineering",
+                "school": "Ateneo de Naga University",
+                "period": "1997 - 1999",
+                "description": ""
+            },
+            {
+                "degree": "Basic Engineering Studies - Computer Engineering",
+                "school": "Mapua Institute of Technology",
+                "period": "1994 - 1997",
+                "description": ""
+            },
+            {
+                "degree": "Basic Entrepreneurship",
+                "school": "Academy for Creating Enterprise",
+                "period": "2002",
+                "description": ""
+            }
+    ],
+    
+    "skills" : [
+            {
+                "skill": "WordPress",
+                "score": "95",
+                "level": "Advanced, 6 years",
+                "description": "My skills in WordPress development includes theme and plugin development and customization, WordPress security and a lot more."
+            },
+            {
+                "skill": "Design and Prototyping",
+                "score": "90",
+                "level": "Advanced, 6 years",
+                "description": "I can do interactive wireframes and designs using Axure and Adobe Creative Suite as well as interactive prototype using Divi."
+            },
+            {
+                "skill": "React & Angular",
+                "score": "75",
+                "level": "Intermediate, 2 years",
+                "description": "I am capable of building single page applications using React JS, Angular JS and Ajax. I am also capable of implementing React JS on existing websites and web applications."
+            }
+    ],
+    
+    "otherskills" : [
+            "HTML5",
+            "CSS3",
+            "SASS",
+            "LESS",
+            "Git",
+            "Photoshop",
+            "Animate",
+            "Illustrator",
+            "GTM",
+            "PHP/MySQL",
+            "Wireframing",
+            "Project Management",
+            "Rest API" ],
+    
+    "testimonials" : [
+            {
+                "client": "Kelly Hook",
+                "score": "100",
+                "company": "Kelly Hook",
+                "active": " active",
+                "location": "San Francisco, California",
+                "description": "Aaron was great to work with. He came to the table with his own ideas and was also willing to create whatever was asked. He implements quickly and follows up on everything. Also, I needed him to make one more change after the project was completed and he came back to help me do that free of charge. I would definitely hire again and will add Aaron to my team for future projects!"
+            },
+            {
+                "client": "Toni Whitaker Osborne",
+                "score": "100",
+                "company": "Service Elite",
+                "active": "",
+                "location": "Houston, Texas",
+                "description": "Aaron was a delight to work with from day 1. He speaks, writes and understands English well. His understanding of our needs and willingness to give us outstanding services was his main concern and he delivered impeccable service to us. He restored our faith in Odesk contractors, since the contractor we used before Aaron was a dissapointment. Aaron is easy to work with and he was very knowledgable in his assignment. He exceeded our expectations for responsiveness in making last minute changes. We plan to use him for future projects. We are extremely careful about recommending people to the people we know, but we have no reservations in recommending Aaron. We know he will do an excellent work for them just as he did for us. Continued success to you Aaron!!!"
+            },
+            {
+                "client": "Hal Palmer",
+                "score": "100",
+                "company": "Hal Palmer",
+                "active": "",
+                "location": "Peterborough, United Kingdom",
+                "description": "Aaron was a great person to deal with, his communication was spot on and the fixings that needed doing to the files were undertaken in a very timely fashion (even over a weekend). I am very satisfied with the outcome and will most certainly be looking to make use of Aaron's skills again, in due course."
+            },
+            {
+                "client": "Evan and Gaylene",
+                "score": "100",
+                "company": "Redgum Village",
+                "active": "",
+                "location": "Dandaragan, Australia",
+                "description": "Job well done considering I needed a few changes made. Once Aaron used his own creativity the project really shone."
+            }
+            
+    ],
+    
+    "portfolio" : [
+            {
+                "title": "Kelly Hook",
+                "type": "WordPress",
+                "category": "frontend wordpress",
+                "image": "assets/images/portfolio/portfolio-1.jpg",
+                "imageAlt": "Kelly Hook",
+                "link": "kellyhook.com",
+                "action": "#",
+                "description": "Built a professional portfolio website for Kelly Hook using WordPress and a custom theme."
+            },
+            {
+                "title": "A&A",
+                "type": "WordPress",
+                "category": "wordpress",
+                "image": "assets/images/portfolio/portfolio-2.jpg",
+                "imageAlt": "A&A",
+                "link": "#",
+                "action": "#",
+                "description": "A Wordpress website development and design project that involves theme modification and customization, among others."
+            },
+            {
+                "title": "Daily Planet Ltd.",
+                "type": "Frontend / ReactJS",
+                "category": "frontend backend reactjs",
+                "image": "assets/images/portfolio/portfolio-3.jpg",
+                "imageAlt": "test",
+                "link": "#",
+                "action": "#",
+                "description": "An ongoing project, converting a static html website into a single page application using WordPress as the backend and ReactJS powering the frontend."
+            },
+            {
+                "title": "Onyc Hair",
+                "type": "Joomla / Virtumart",
+                "category": "frontend joomla backend ecommerce virtumart",
+                "image": "assets/images/portfolio/portfolio-4.jpg",
+                "imageAlt": "Onyc Hair",
+                "link": "#",
+                "action": "#",
+                "description": "ONYC Hair is a Joomla! + Virtuemart based eCommerce website. The job involved VirtueMart customization, custom formsand template development."
+            },
+            {
+                "title": "Visayan Prime Realty",
+                "type": "Joomla",
+                "category": "frontend joomla backend",
+                "image": "assets/images/portfolio/portfolio-5.jpg",
+                "imageAlt": "Visayan Prime Realty",
+                "link": "#",
+                "action": "#",
+                "description": "VisayanPrimeRealty.com is a real estate property listing website for a local Real Estate Company. The website is built on Joomla! CMS platform with a customized extension for property management."
+            },
+            {
+                "title": "Strategic America",
+                "type": "WordPress",
+                "category": "frontend backend wordpress",
+                "image": "assets/images/portfolio/portfolio-6.jpg",
+                "imageAlt": "test",
+                "link": "#",
+                "action": "#",
+                "description": "The current SA website is the third company website I built for them. It uses a custom WordPress theme and some plugins that I built for the client."
+            },
+            {
+                "title": "Foster Group",
+                "type": "WordPress",
+                "category": "frontend wordpress backend",
+                "image": "assets/images/portfolio/portfolio-7.jpg",
+                "imageAlt": "test",
+                "link": "#",
+                "action": "#",
+                "description": "The site was built using a custom WordPress theme I built for the client. The theme uses AJAX to load some parts of the pages."
+            },
+            {
+                "title": "Stoney Creek Promo",
+                "type": "Php / HTML / CSS",
+                "category": "frontend backend",
+                "image": "assets/images/portfolio/portfolio-8.jpg",
+                "imageAlt": "Stoney Creek",
+                "link": "#",
+                "action": "#",
+                "description": "Built a small promotional website for Stoney Creek. It is a single page website built with a coupon code generator."
+            }
+            
+    ]
+    
+}
