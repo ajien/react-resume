@@ -153,14 +153,22 @@
             "SASS",
             "LESS",
             "Git",
-            "Photoshop",
-            "Animate",
-            "Illustrator",
-            "GTM",
+            "Gulp",
+            "NodeJS",
+            "JavaScript / ES6",
+            "jQuery",
+            "Adobe Photoshop",
+            "Adobe Animate",
+            "Adobe Illustrator",
+            "Google Tag Manager",
+            "Google Analytics",
+            "Google Search Console",
             "PHP/MySQL",
             "Wireframing",
             "Project Management",
-            "Rest API" ],
+            "Rest API",
+            "GraphQL"
+        ],
     
     "testimonials" : [
             {
@@ -177,7 +185,7 @@
                 "company": "Service Elite",
                 "active": "",
                 "location": "Houston, Texas",
-                "description": "Aaron was a delight to work with from day 1. He speaks, writes and understands English well. His understanding of our needs and willingness to give us outstanding services was his main concern and he delivered impeccable service to us. He restored our faith in Odesk contractors, since the contractor we used before Aaron was a dissapointment. Aaron is easy to work with and he was very knowledgable in his assignment. He exceeded our expectations for responsiveness in making last minute changes. We plan to use him for future projects. We are extremely careful about recommending people to the people we know, but we have no reservations in recommending Aaron. We know he will do an excellent work for them just as he did for us. Continued success to you Aaron!!!"
+                "description": "Aaron was a delight to work with from day 1. He speaks, writes and understands English well. His understanding of our needs and willingness to give us outstanding services was his main concern and he delivered impeccable service to us. He restored our faith in Odesk contractors, since the contractor we used before Aaron was a disappointment. Aaron is easy to work with and he was very knowledgable in his assignment. He exceeded our expectations for responsiveness in making last minute changes. We plan to use him for future projects. We are extremely careful about recommending people to the people we know, but we have no reservations in recommending Aaron. We know he will do an excellent work for them just as he did for us. Continued success to you Aaron!!!"
             },
             {
                 "client": "Hal Palmer",
@@ -268,6 +276,16 @@
                 "link": "#",
                 "action": "#",
                 "description": "ONYC Hair is a Joomla + Virtuemart based eCommerce website. The job involved VirtueMart customization, custom formsand template development."
+            },
+            {
+                "title": "Makin' Hay",
+                "type": "WordPress",
+                "category": "frontend wordpress backend",
+                "image": "assets/images/portfolio/makinhay.png",
+                "imageAlt": "Makin' Hay",
+                "link": "#",
+                "action": "#",
+                "description": "Lead the development team in building the website. My work also involved implementing a custom form that connects to Salesforce through an API, among others."
             },
             {
                 "title": "Vermeer",

@@ -75,7 +75,7 @@ p {
 }
 
 a.btn {
-  background: #2C8693;
+  background: #38aaba;
   color: #fff;
   padding: 8px 15px;
   background-clip: padding-box;
@@ -87,8 +87,7 @@ a.btn {
 }
 
 a.btn:hover {
-  color: #fff;
-  background: #00a5bb;
+  background: #2C8693;
 }
 
 #topcontrol {
@@ -122,7 +121,7 @@ a.btn:hover {
 }
 
 .header {
-  background: #F3BD1C;
+  background: #ceecf0;
   color: #2A2B2A;
 }
 
@@ -141,7 +140,7 @@ a.btn:hover {
 }
 
 .header .social a {
-  color: rgba(255, 255, 255, 0.8);
+  color: #38aaba;
   display: inline-block;
   text-align: center;
   width: 32px;
@@ -150,12 +149,12 @@ a.btn:hover {
   background-clip: padding-box;
   padding-top: 2px;
   font-size: 16px;
-  border: 2px solid rgba(255, 255, 255, 0.8);
+  border: 2px solid #38aaba;
 }
 
 .header .social a:hover {
-  color: #fff;
-  border-color: #fff;
+  color: #2C8693;
+  border-color: #2C8693;
 }
 
 .header .actions {
@@ -201,7 +200,7 @@ a.btn:hover {
 }
 
 .header .intro {
-  background: #FFDA53;
+  background: #ceecf0;
   padding-top: 90px;
   padding-bottom: 60px;
   position: relative;
