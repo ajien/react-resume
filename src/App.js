@@ -6,7 +6,7 @@ import Footer from './partials/footer.js';
 //import './assets/plugins/bootstrap/js/bootstrap.min.js';
 import './assets/plugins/bootstrap/css/bootstrap.min.css';
 import './assets/plugins/font-awesome/css/font-awesome.css';
-import './assets/css/styles.css';
+import './assets/css/style.css';
 
 
 class App extends Component {

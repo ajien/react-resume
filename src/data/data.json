@@ -1,6 +1,9 @@
 {
     "name" : "Aaron Jeffrey Nolasco",
     "title" : "Full Stack Developer",
+	
+	"site_description" : "A full-stack web developer with years of experience in structuring, building and implementing websites based on WordPress, Joomla and other content management platforms. Capable of pixel-perfect conversion of design files into a fully-working, highly interactive websites in a minimum amount of time. Smart, hardworking and resourceful, able to finish complex tasks with less or no supervision and in a timely manner. Loves to tackle challenges and do not easily give up. A consistent achiever, knows how to set goals, make priorities and follow up on plans.",
+	
     "profile" : "I am a full-stack web developer with more than 8 years of experience in structuring, building and implementing websites based on WordPress, Joomla and other content management platforms. I am capable of pixel-perfect conversion of design files into a fully-working, highly interactive websites in a minimum amount of time. I am smart, hardworking and resourceful, able to finish complex tasks with less or no supervision and in a timely manner. I love to tackle challenges and I do not easily give up. A consistent achiever, I know how to set goals, make priorities and follow up on plans.",
     
     "dialog" : "Are you looking for someone to help you with your development projects? Let's talk about it, I might just be the person who can help you. I understand and speak English pretty well, and I am sure we are going to have a really fun conversation.",
@@ -12,21 +15,30 @@
     "linkedin" : "https://www.linkedin.com/in/aaron-jeffrey-nolasco",
     "facebook" : "https://www.facebook.com/ajie.nolasco",
     "services" : [
-        "Theme development for WordPress",
+        "Custom theme development for WordPress",
+        "Plugin development and customization",
+        "PSD to Web Development",
         "WordPress to ReactJS",
         "App development with ReactJS",
-        "Front-end development with AngularJS",
-        "UI Development",
+        "Front-end development",
+        "UI Design and Development",
         "UX Prototyping and Research"
     ],
     
     "experiences" : [
             {
+                "company": "Panchroma",
+                "location": "New Brunswick, Canada",
+                "title": "Fullstack Web Developer",
+                "time": "2017 - Present",
+                "description": "<p>As Fullstack Web Developer, I am responsible for designing, building and maintaining websites for different partners and clients.</p>"
+            },
+            {
                 "company": "eWay Corp",
                 "location": "Clive, Iowa",
                 "title": "Senior Web Developer",
-                "time": "2013 - Present",
-                "description": "<p>As Senior Web Developer, my responsibility involves interaction with the top management, the clients and the rest of the Web Development and Quality Assurance teams.</p><p>I have the responsibility of creating preliminary proposals and estimates for web development projects, which also involves researching for and recommending the best possible solutions.</p><p>From time to time, I am also tasked to conduct trainings and presentations to clients, as well as participate in discussions and provide insights on how to improve functionality and design of ongoing as well as upcoming web application projects.</p><p>I also conduct trainings and lead stand up meetings, helping members of the team keep up to standards in development and coding practices. When not doing my leadership duties, I keep my own development skills sharp by working on mission critical projects for the company.</p>",
+                "time": "2013 - 2018",
+                "description": "<p>As Senior Web Developer, my responsibility involves daily interaction with the top management, the clients and the rest of the Web Development and Quality Assurance teams, all of which are spread across several continents.</p><p>I have the responsibility of creating preliminary proposals and estimates for web development projects, which also involves researching for and recommending the best possible solutions.</p><p>From time to time, I am also tasked to conduct trainings and presentations to clients, as well as participate in discussions and provide insights on how to improve functionality and design of ongoing as well as upcoming web application projects.</p><p>I also conduct trainings and lead stand up meetings, helping members of the team keep up to standards in development and coding practices. When not doing my leadership duties, I keep my own development skills sharp by working on mission critical projects for the company.</p>",
                 
                 "accomplishments": [
                     "Pioneered the WordPress Development team",
@@ -115,19 +127,22 @@
             {
                 "skill": "WordPress",
                 "score": "95",
-                "level": "Advanced, 6 years",
+                "level": "Advanced",
+                "start": "2010",
                 "description": "My skills in WordPress development includes theme and plugin development and customization, WordPress security and a lot more."
             },
             {
                 "skill": "Design and Prototyping",
                 "score": "90",
-                "level": "Advanced, 6 years",
+                "level": "Advanced",
+                "start": "2008",
                 "description": "I can do interactive wireframes and designs using Axure and Adobe Creative Suite as well as interactive prototype using Divi."
             },
             {
                 "skill": "React & Angular",
                 "score": "75",
-                "level": "Intermediate, 2 years",
+                "level": "Intermediate",
+                "start": "2016",
                 "description": "I am capable of building single page applications using React JS, Angular JS and Ajax. I am also capable of implementing React JS on existing websites and web applications."
             }
     ],
@@ -195,46 +210,6 @@
                 "description": "Built a professional portfolio website for Kelly Hook using WordPress and a custom theme."
             },
             {
-                "title": "A&A",
-                "type": "WordPress",
-                "category": "wordpress",
-                "image": "assets/images/portfolio/portfolio-2.jpg",
-                "imageAlt": "A&A",
-                "link": "#",
-                "action": "#",
-                "description": "A Wordpress website development and design project that involves theme modification and customization, among others."
-            },
-            {
-                "title": "Daily Planet Ltd.",
-                "type": "Frontend / ReactJS",
-                "category": "frontend backend reactjs",
-                "image": "assets/images/portfolio/portfolio-3.jpg",
-                "imageAlt": "test",
-                "link": "#",
-                "action": "#",
-                "description": "An ongoing project, converting a static html website into a single page application using WordPress as the backend and ReactJS powering the frontend."
-            },
-            {
-                "title": "Onyc Hair",
-                "type": "Joomla / Virtumart",
-                "category": "frontend joomla backend ecommerce virtumart",
-                "image": "assets/images/portfolio/portfolio-4.jpg",
-                "imageAlt": "Onyc Hair",
-                "link": "#",
-                "action": "#",
-                "description": "ONYC Hair is a Joomla! + Virtuemart based eCommerce website. The job involved VirtueMart customization, custom formsand template development."
-            },
-            {
-                "title": "Visayan Prime Realty",
-                "type": "Joomla",
-                "category": "frontend joomla backend",
-                "image": "assets/images/portfolio/portfolio-5.jpg",
-                "imageAlt": "Visayan Prime Realty",
-                "link": "#",
-                "action": "#",
-                "description": "VisayanPrimeRealty.com is a real estate property listing website for a local Real Estate Company. The website is built on Joomla! CMS platform with a customized extension for property management."
-            },
-            {
                 "title": "Strategic America",
                 "type": "WordPress",
                 "category": "frontend backend wordpress",
@@ -263,6 +238,46 @@
                 "link": "#",
                 "action": "#",
                 "description": "Built a small promotional website for Stoney Creek. It is a single page website built with a coupon code generator."
+            },
+            {
+                "title": "A&A",
+                "type": "WordPress",
+                "category": "wordpress",
+                "image": "assets/images/portfolio/portfolio-2.jpg",
+                "imageAlt": "A&A",
+                "link": "#",
+                "action": "#",
+                "description": "A Wordpress website development and design project that involves theme modification and customization, among others."
+            },
+            {
+                "title": "Daily Planet Ltd.",
+                "type": "Frontend / ReactJS",
+                "category": "frontend backend reactjs",
+                "image": "assets/images/portfolio/portfolio-3.jpg",
+                "imageAlt": "test",
+                "link": "#",
+                "action": "#",
+                "description": "An ongoing project, converting a static html website into a single page application using WordPress as the backend and ReactJS powering the frontend."
+            },
+            {
+                "title": "Onyc Hair",
+                "type": "Joomla / Virtumart",
+                "category": "frontend joomla backend ecommerce virtumart",
+                "image": "assets/images/portfolio/portfolio-4.jpg",
+                "imageAlt": "Onyc Hair",
+                "link": "#",
+                "action": "#",
+                "description": "ONYC Hair is a Joomla + Virtuemart based eCommerce website. The job involved VirtueMart customization, custom formsand template development."
+            },
+            {
+                "title": "Vermeer",
+                "type": "Email Newsletters",
+                "category": "email newsletter",
+                "image": "assets/images/portfolio/vermeer.png",
+                "imageAlt": "Vermeer",
+                "link": "#",
+                "action": "#",
+                "description": "Work involves creating and testing responsive emails for their newsletter campaigns."
             }
             
     ]

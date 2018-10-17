@@ -34,6 +34,7 @@ class Portfolio extends Component {
                 <li className="type" data-filter=".frontend">Front-end</li>
                 <li className="type" data-filter=".wordpress">WordPress</li>
                 <li className="type" data-filter=".joomla">Joomla</li>
+                <li className="type" data-filter=".email">Email</li>
             </ul>
 
             <div className="items-wrapper isotope row">

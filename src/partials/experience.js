@@ -19,6 +19,8 @@ class Experience extends Component {
                    
   render() {
 
+    const accomplishments = this.props.item.accomplishments;
+
         return (
         
             <div className="item">
@@ -32,10 +34,12 @@ class Experience extends Component {
                 </div>
                 <div className="job-desc" dangerouslySetInnerHTML={ { __html: this.props.item.description } }></div>
             
-                <div className="job-accomplishments" >
-                    <h4 className="accomplishments">Accomplishments</h4>
-                    <Accomplishment data={this.props.item.accomplishments} />
-                </div>
+                { accomplishments &&
+                    <div className="job-accomplishments" >
+                        <h4 className="accomplishments">Accomplishments</h4>
+                        <Accomplishment data={this.props.item.accomplishments} />
+                    </div>
+                }
 
             </div>
             

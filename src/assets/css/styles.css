@@ -1,7 +1,9 @@
 /* ======= Base ======= */
 
+
 body {
-    font-family: 'Roboto', sans-serif;
+    /*font-family: 'Roboto', sans-serif;*/
+	font-family: 'Walter Turncoat', cursive;
     color: #666;
     background: #f5f5f5;
     font-size: 14px;
@@ -78,8 +80,8 @@ a.btn:hover {
     font-weight: normal;
 }
 .header {
-    background: #00BCD4;
-    color: #fff;
+    background: #F3BD1C;
+    color: #2A2B2A;
 }
 .header a {
     color: #fff;
@@ -141,11 +143,11 @@ a.btn:hover {
 .header .title {
     font-size: 28px;
     font-weight: 300;
-    color: rgba(255, 255, 255, 0.8);
+/*    color: rgba(255, 255, 255, 0.8);*/
     margin-bottom: 30px;
 }
 .header .intro {
-    background: #00a5bb;
+    background: #FFDA53;
     padding-top: 90px;
     padding-bottom: 60px;
     position: relative;
@@ -426,7 +428,6 @@ a.btn:hover {
 .testimonials-section .quote {
     border-left: none;
     padding: 0;
-    font-size: 22px;
     color: #666;
     font-weight: 300;
     position: relative;
@@ -520,7 +521,7 @@ a.btn:hover {
 
 .portfolio-section .item-inner .content {
     padding: 30px;
-    padding-bottom: 75px;
+    padding-bottom: 45px;
     position: relative;
     -webkit-transition: all 0.5s;
     transition: all 0.5s;

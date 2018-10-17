@@ -8,7 +8,7 @@ class FooterContactInfo extends Component {
     renderServices() {
         let resultsArray = [];
         data.services.map((item, i) => {
-            resultsArray.push(<li key={i}><i className="fa fa-check" aria-hidden="true" ></i> {item}</li>);
+            resultsArray.push(<li itemProp="itemOffered" itemScope itemType="http://schema.org/Service" key={i}><i className="fa fa-check" aria-hidden="true" ></i> <span itemProp="name">{item}</span></li>);
         });
             
         return resultsArray;
@@ -27,7 +27,7 @@ class FooterContactInfo extends Component {
         
                     <p><strong>I can help with the following:</strong></p>
         
-                    <ul className="list-unstyled service-list">
+                    <ul className="list-unstyled service-list" itemScope itemType="http://schema.org/Service">
                         { this.renderServices() }
                     </ul>
         
