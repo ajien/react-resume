@@ -10,6 +10,7 @@ class ContactInfo extends Component {
                     <li className="email"><a href={'mailto:' + data.email}><i className="fa fa-envelope"></i> {data.email}</a></li>
                     <li><a href={'tel:' + data.phone}><i className="fa fa-phone"></i> {data.phone}</a></li>
                     <li><a href={'skype:' + data.skype}><i className="fa fa-skype"></i> {data.skype}</a></li>
+                    {/* <li><a href={data.linkedin}><i className="fa fa-linkedin"></i> LinkedIn</a></li> */}
                 </ul>
             </div>
 

@@ -36,17 +36,17 @@ class Work extends Component {
                     <img className="img-responsive" src={this.props.item.image} alt={this.props.item.title} />
                 </figure>
                 <div className="content text-left">
-                    <h3 className="sub-title">
-                        {/*<a href={this.props.item.link}>*/}
+                    <a href={this.props.item.link}>
+                        <h3 className="sub-title">
                             {this.props.item.title}
-                        {/*</a>*/}
-                    </h3>
+                        </h3>
+                    </a>
                     <div className="meta">{this.props.item.type}</div>
 
                     { this.showDesc() }
     
                 </div>
-                <a onClick={this.handleClick} className="link-mask" href="#"></a>
+                <a onClick={this.handleClick} className="link-mask" href={this.props.item.link}></a>
             </div>
         </div>
         

@@ -9,7 +9,7 @@ class TopBar extends Component {
         <div className="top-bar container-fluid">
             <div className="actions no-print">
                 <a className="btn hidden-xs" href={'mailto:' + data.email}><i className="fa fa-paper-plane" aria-hidden="true"></i> Hire Me</a>
-                <a className="btn" href="#" onClick={window.print} ><i className="fa fa-download" aria-hidden="true"></i> Print My Resume</a>
+                <a className="btn" href="#" onClick={window.print} ><i className="fa fa-print" aria-hidden="true"></i> Print My Resume</a>
             </div>
             <ul className="social list-inline no-print">
                 <li><a href={data.linkedin}><i className="fa fa-linkedin" aria-hidden="true"></i></a></li>

@@ -213,7 +213,7 @@
                 "category": "frontend wordpress",
                 "image": "assets/images/portfolio/portfolio-1.jpg",
                 "imageAlt": "Kelly Hook",
-                "link": "kellyhook.com",
+                "link": "http://kellyhook.com",
                 "action": "#",
                 "description": "Built a professional portfolio website for Kelly Hook using WordPress and a custom theme."
             },
